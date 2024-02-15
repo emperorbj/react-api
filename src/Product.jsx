@@ -13,10 +13,7 @@ const Product = () => {
     // // it will only render once the first time. That array is called DEPENDENCY ARRAY( because we can pass dependencies in them)
     // // 3. variables called within the dependency array renders the use effect call back
     // // 4. if we want to do anything when a component unmounts we put another function in the
-    // // use effect call back.
-    // // we can use multiple useEffect in a single component.
-    // useEffect(()=>{
-    //     console.log('rendering on its own')
+    
 
     
 
