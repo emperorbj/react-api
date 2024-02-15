@@ -18,10 +18,7 @@ const Product = () => {
     // useEffect(()=>{
     //     console.log('rendering on its own')
 
-    //     return()=>{
-    //         console.log('we are unmounting')
-    //     }
-    // },[name])
+    
 
 
     // WORKING WITH API 
