@@ -6,10 +6,7 @@ const Product = () => {
 
     // function changeName(){
     //     setName('Mrs Opatola Oluwabusolami')
-    // }
-
-    //  // 1. use effect is called every rendering and rerendering
-    // // 2. if you pass a second parameter as a blank array in the use effect call back function
+  
    
 
     
