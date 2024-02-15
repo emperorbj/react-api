@@ -1,16 +1,6 @@
 import { useEffect, useState } from "react"
 
 const Product = () => {
-    // let[name,setName] = useState('Mr.Bolaji')
-
-
-    // function changeName(){
-    //     setName('Mrs Opatola Oluwabusolami')
-  
-   
-
-    
-
 
     // WORKING WITH API 
 
