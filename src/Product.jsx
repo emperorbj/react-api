@@ -18,7 +18,7 @@ const Product = () => {
             })
     },[])
     return (
-    <div className="effect"> 
+    <div className="products"> 
         
     </div>
     )
