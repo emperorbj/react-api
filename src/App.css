@@ -4,7 +4,23 @@
   padding: 2rem;
   text-align: center;
 }
+.products{
+  width: 100%;
+  padding: 10px;
+  background-color: azure;
+  display: flex;
+  flex-wrap: wrap;
+}
 
+.product{
+  width: 20%;
+  padding: 10px;
+  background-color:#0ef;
+  margin: 20px;
+}
+img{
+  width: 200px;
+}
 .effect{
   background-color: #0ef;
   padding: 30px 40px;
