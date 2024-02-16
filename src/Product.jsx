@@ -19,7 +19,19 @@ const Product = () => {
     },[])
     return (
     <div className="products"> 
-        
+        {
+            product.map((item)=>{
+
+                return (
+                    <div className="product">
+                        <h1>{item.title}</h1>
+                        <h2>{item.price}</h2>
+                        <img src={item.image} alt="" />
+                    </div>
+                )
+                
+            })
+        }
     </div>
     )
 }
